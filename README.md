@@ -46,3 +46,4 @@ https://www.w3schools.com/tags/att_meta_name.asp
 2. Alt attributes to the icon and image elements so if the image doesn't load the text will diplay what it is or if the the browser is not visible, text to audio will say what the listener would've been able to see. 
 3. Using Scout Rule to leave code cleaner than I was given. 
 4. Used Semantic Elements for accessibility.
+5. Added comments in CSS for better accessibility when needed to change element charateristics. 
