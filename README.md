@@ -14,7 +14,8 @@ This READEME goes over the project, which is a website that meets the accesibili
 
 ## Visuals
 
-
+![module-1-web](https://github.com/LewisHammy/Module-One-Samuel/assets/136273659/73a14a23-8520-4eae-8694-55382ac4bc70)
+![module-1-web-02](https://github.com/LewisHammy/Module-One-Samuel/assets/136273659/b630fdc4-abf8-4574-9431-1cdf69a177e9)
 
 ## Sources
 
