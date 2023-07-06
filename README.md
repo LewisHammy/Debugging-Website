@@ -6,15 +6,10 @@ This READEME goes over the project, which is a website that meets the accesibili
 
 ## Modifications 
 
-1. <strong>Accessibility:</strong>
-
 - Implemented semantic elements
 - HTML elements follow logical structure 
 - Alt tags on images
 - Title has concise and descriptive title
-
-2. <strong>Scout Rule</strong>
-
 - Left the code I worked on a little better than I found it
 
 ## Visuals
