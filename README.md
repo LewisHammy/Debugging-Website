@@ -22,6 +22,10 @@ This READEME goes over the project, which is a website that meets the accesibili
 
 ![module-1-web-02](https://github.com/LewisHammy/Module-One-Samuel/assets/136273659/b630fdc4-abf8-4574-9431-1cdf69a177e9)
 
+## Deployed Website
+
+https://lewishammy.github.io/Module-One-Samuel/
+
 ## Sources
 
 W3: Semantic Elements 
