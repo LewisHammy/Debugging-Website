@@ -48,3 +48,4 @@ https://www.w3schools.com/tags/att_meta_name.asp
 4. Used Semantic Elements for accessibility.
 5. Added comments in CSS for better accessibility when needed to change element charateristics. 
 6. Added working links.
+7. Consolidated CSS
